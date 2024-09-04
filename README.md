@@ -33,13 +33,13 @@ The program will prompt you to choose whether you want to encrypt or decrypt a m
 ## Example 
 
 **Encrypting a message**
-
-$ python caesar_cipher.py
+```bash
+python caesar_cipher.py
+```
 
 Do you want to encrypt or decrypt?
-e/d: e
 
-ENCRYPTION MODE SELECTED
+E/D: E
 
 Enter the key: 3   
 Enter the text to encrypt: hello world   
@@ -47,12 +47,13 @@ CIPHERTEXT: khoor zruog
 
 **Decrypting a message**
 
-$ python caesar_cipher.py
+```bash
+python caesar_cipher.py
+```
 
 Do you want to encrypt or decrypt?
-e/d: d
 
-DECRYPTION MODE SELECTED
+E/D: D
 
 Enter the key: 3.   
 Enter the text to decrypt: khoor zruog.  
