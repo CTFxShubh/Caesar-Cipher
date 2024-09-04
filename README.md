@@ -26,9 +26,9 @@ The program will prompt you to choose whether you want to encrypt or decrypt a m
 2. **Navigate to the directory where `caesar_cipher.py` is located**.
 3. **Run the script**:
 
-   ```bash
-   python caesar_cipher.py
-   ```
+```bash
+python caesar_cipher.py
+```
    
 ## Example 
 
