@@ -26,7 +26,6 @@ user_input = input('e/d: ').lower()
 print() 
 
 if user_input == 'e': 
-    print('ENCRYPTION MODE SELECTED')
     print()
     key = int(input('Enter the key: '))
     text = input('Enter the text to encrypt: ')
@@ -34,7 +33,6 @@ if user_input == 'e':
     print(f'CIPHERTEXT: {ciphertext}')
 
 elif user_input == 'd':
-    print('DECRYPTION MODE SELECTED')
     print()
     key = int(input('Enter the key: '))
     text = input('Enter the text to decrypt: ')
