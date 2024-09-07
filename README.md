@@ -6,7 +6,7 @@
 This is a simple Python program that can encrypt and decrypt text using the Caesar Cipher algorithm. Users can input a message and a shift value to perform encryption and decryption
 
 ## Usage
-
+ 
 The program will prompt you to choose whether you want to encrypt or decrypt a message, and then ask for the text and the shift key.
 
 ## Features
